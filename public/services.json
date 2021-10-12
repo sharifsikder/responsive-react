@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Replece Tire",
+        "price": 200,
+        "discreption": "lorem is better than dammi text",
+        "img": " https://i.ibb.co/4W2RmRC/w1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Skur kau",
+        "price": 400,
+        "discreption": "lorem is better than dammi text",
+        "img": " https://i.ibb.co/SPxWqHx/w2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mehedi Hasan",
+        "price": 200,
+        "discreption": "lorem is better than dammi text",
+        "img": "  https://i.ibb.co/CKDQxcN/w3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Sayeem sikder",
+        "price": 200,
+        "discreption": "lorem is better than dammi text",
+        "img": " https://i.ibb.co/TPwydjb/w4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "MD Sakib",
+        "price": 200,
+        "discreption": "lorem is better than dammi text",
+        "img": " https://i.ibb.co/4Z4s1K2/w5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sharif Sikder",
+        "price": 200,
+        "discreption": "lorem is better than dammi text",
+        "img": "https://i.ibb.co/VVt0XF6/w6.jpg"
+    }
+]
